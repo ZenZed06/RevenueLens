@@ -77,7 +77,7 @@ st.markdown("""
     box-shadow: 0 8px 25px rgba(0,0,0,0.4);
     text-align: center;
 ">
-    <h1 style='margin:0; font-size:90px; color:#ffcc00;'> RevenueLens</h1>
+    <h1 style='margin:0; font-size:85px; color:#ffcc00;'> RevenueLens</h1>
     <p style='margin-top:12px; font-size:20px; line-height:1.6; color:#f0e68c;'>
         Share your business records, instantly visualize key trends, and uncover hidden opportunities to boost revenue. RevenueLens turns your data into actionable insights for smarter, faster growth.
     </p>
